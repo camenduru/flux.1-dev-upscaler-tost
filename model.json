@@ -1,0 +1,13 @@
+{
+    "input_image_check": "https://files.catbox.moe/m2vlnx.jpg",
+    "positive_prompt": "professional raw photo",
+    "seed": 0,
+    "upscale_method": "lanczos",
+    "scale_by": 5,
+    "strength": 0.65,
+    "steps": 25,
+    "cfg": 1,
+    "guidance": 3.5,
+    "sampler_name": "euler",
+    "scheduler": "normal"
+}
