@@ -6,16 +6,14 @@
 https://tost.ai
 
 ### 🧬 Code
-
-
-### 📄 Paper
-
+https://github.com/black-forest-labs/flux
 
 ### 🌐 Page
-
+https://www.jasper.ai/
 
 ### 🖼 Output
 
+https://github.com/user-attachments/assets/a07830fd-6434-4173-976f-acccf9313643
 
 ### 🏢 Sponsor
 https://runpod.io
